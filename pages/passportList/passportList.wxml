@@ -1,0 +1,8 @@
+
+<view class="align passport-list" >
+    <movable-area class="pos-ab w-100 h-100" style='width:600px;height:600px'>
+          <movable-view direction="all"  x="{{node.x}}" y="{{node.y}}" style='width:50px;height:50px;background:red' >
+          222
+          </movable-view>
+      </movable-area>
+</view>
